@@ -1,6 +1,10 @@
 #making arbitrary change to test got for got scm.com book 
 #another arbitrary git test change
+<<<<<<< HEAD
 #anogther arbitrary git test change 13h14
+=======
+#deleted another arbitrary change comment in line 2 and added this for git test 13H28
+>>>>>>> 6baaf0b (testing git 13h30 edit on same file pushed ny other)
 #include <stdio.h>
 #include <stdlib.h>
 

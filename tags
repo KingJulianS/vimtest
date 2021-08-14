@@ -1,3 +1,4 @@
+HEAD	static.c	3
 M2scmptest	2scmptest.c	/^int main(){$/
 Maddressof	addressof.c	/^int main() {$/
 Maddressof2	addressof2.c	/^int main() {$/
