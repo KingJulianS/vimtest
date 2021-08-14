@@ -1,0 +1,56 @@
+M2scmptest	2scmptest.c	/^int main(){$/
+Maddressof	addressof.c	/^int main() {$/
+Maddressof2	addressof2.c	/^int main() {$/
+Mchar_array2	char_array2.c	/^int main(){$/
+Mcharptr_test	charptr_test.c	/^int main(int argc, char *argv[]) {$/
+Mcommandline	commandline.c	/^int main (int argc, char *argv[]) {$/
+Mconvert2	convert2.c	/^int main(int argc, char *argv[]) {$/
+Mdatatype_sizes	datatype_sizes.c	/^int main(int argc, char *argv[]) {$/
+Merrorchecked_malloc	errorchecked_malloc.c	/^int main(int argc, char *argv[]) $/
+Mfirstprog	firstprog.c	/^int main()$/
+Mfirstproga	firstproga.c	/^int main(int argc, char *argv[]){$/
+Mfmt_strings	fmt_strings.c	/^int main() {$/
+Mheap_example	heap_example.c	/^int main(int argc, char *argv[]) $/
+Minput	input.c	/^int main() {$/
+Mmemory_segments	memory_segments.c	/^int main (){$/
+Mpointer	pointer.c	/^int main(int argc, char *argv[]) {$/
+Mpointer_types	pointer_types.c	/^int main() {$/
+Mpointer_types2	pointer_types2.c	/^int main() {$/
+Mpointer_types3	pointer_types3.c	/^int main() {$/
+Mpointer_types4	pointer_types4.c	/^int main() {$/
+Mpointer_types5	pointer_types5.c	/^int main() {$/
+Mscope2	scope2.c	/^int main(int argc, char *argv[]) {$/
+Mscope3	scope3.c	/^int main(int argc, char *argv[]) {$/
+Mscopex	scopex.c	/^int main(int argc, char *argv[]) {$/
+Msimplenote	simplenote.c	/^int main(int argc, char *argv[]) $/
+Mstack_example	stack_example.c	/^int main() {$/
+Mstatic	static.c	/^int main(int argc, char *argv[]) {$/
+Mtestfile	testfile.c	/^int main()$/
+Mtypecasting	typecasting.c	/^int main() {$/
+con_strtol	convert2.c	/^long con_strtol(char *nr_str, char *pgm_name) {$/
+ec_malloc	simplenote.c	/^void *ec_malloc(unsigned int mem_size) {$/
+err_c_malloc	errorchecked_malloc.c	/^void *err_c_malloc(unsigned int memsize, char *whe/
+fatal	simplenote.c	/^void fatal(char *msg) {$/
+free_malloc	errorchecked_malloc.c	/^void free_malloc(void *vptr, unsigned int freesize/
+func1	scope2.c	/^void func1(void) {$/
+func1	scope3.c	/^void func1(void) {$/
+func1	scopex.c	/^void func1(void) {$/
+func2	scope2.c	/^void func2(void) {$/
+func2	scope3.c	/^void func2(void) {$/
+func2	scopex.c	/^void func2(void) {$/
+func3	scope2.c	/^void func3(void) {$/
+func3	scope3.c	/^void func3(void) {$/
+func3	scopex.c	/^void func3(void) {$/
+function	memory_segments.c	/^void function() { $/
+function	static.c	/^void function(void) {$/
+global_initialized_var	memory_segments.c	5
+global_var	memory_segments.c	4
+globca	errorchecked_malloc.c	5
+globcb	errorchecked_malloc.c	6
+globinta	errorchecked_malloc.c	7
+globintb	errorchecked_malloc.c	8
+j	scope2.c	8
+j	scope3.c	8
+test_function	stack_example.c	/^void test_function(int a, int b, int c, int d) {$/
+usage	convert2.c	/^void usage(char *pgm_name) {$/
+usage	simplenote.c	/^void usage(char *prog_name, char *filename) { $/
