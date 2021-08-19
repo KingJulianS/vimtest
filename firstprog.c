@@ -1,3 +1,5 @@
+/*arbitrary command to test git fugitive */ 
+
 #include <stdio.h> 
 
 int main()
