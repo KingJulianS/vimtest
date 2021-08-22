@@ -9,6 +9,10 @@ Mconvert2	convert2.c	/^int main(int argc, char *argv[]) {$/
 Mdatatype_sizes	datatype_sizes.c	/^int main(int argc, char *argv[]) {$/
 Merrorchecked_malloc	errorchecked_malloc.c	/^int main(int argc, char *argv[]) $/
 Mfirstprog	firstprog.c	/^int main()$/
+Mfirstprog_BACKUP_2133889	firstprog_BACKUP_2133889.c	/^int main()$/
+Mfirstprog_BASE_2133889	firstprog_BASE_2133889.c	/^int main()$/
+Mfirstprog_LOCAL_2133889	firstprog_LOCAL_2133889.c	/^int main()$/
+Mfirstprog_REMOTE_2133889	firstprog_REMOTE_2133889.c	/^int main()$/
 Mfirstproga	firstproga.c	/^int main(int argc, char *argv[]){$/
 Mfmt_strings	fmt_strings.c	/^int main() {$/
 Mheap_example	heap_example.c	/^int main(int argc, char *argv[]) $/
