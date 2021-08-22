@@ -6,7 +6,10 @@ int main()
 {
   int i; 
   for(i = 0; i < 10; i++){
-    printf("Hello World!\n");
+/*    puts("Hello World!\n");
+ * editign to test vimmdiff in git , creating a merge conflict
+ */
+      printf("hello world /n");
   }
   return 0;
 }
